@@ -1,0 +1,84 @@
+.hidden
+{
+	display: none;
+}
+
+.logo
+{
+	width: 222px;
+	height: 115px;
+	border: 1px solid black;
+}
+
+.socialMedia
+{
+	width: 300px;
+	height: 115px;
+	border: 1px solid black;
+}
+
+#siteContainer
+{
+	width: 1120px;
+	margin: 0 auto;
+}
+
+#mainHeader
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 1120px;
+	height: 120px;
+	margin-bottom: 15px;
+}
+
+#headerNav
+{
+	width: 722px;
+	height: 115px;
+	border: 1px solid black;
+}
+
+#bodyContent
+{
+	width: 1120px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	display: flex;
+	flex-direction: column;
+}
+
+#div_1
+{
+	border: 1px solid black;
+	width: 1115px;
+	height: 322px;
+	margin-bottom: 15px;
+
+}
+
+#div_2
+{
+	margin-top: 15px;
+	border: 1px solid black;
+	width: 1115px;
+	height: 406px;
+}
+
+#mainFooter
+{
+	margin-top: 15px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 1120px;
+	height: 120px;
+}
+
+#footerNav
+{
+	width: 223px;
+	height: 115px;
+	border: 1px solid black;
+}
